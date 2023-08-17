@@ -12,6 +12,7 @@ See the requirement for more details.
 ## sample_FQS
 
 20% of the FQS data randomly selected in sample_FQS.
+You can download the samples in releases v1.0.0.
 
 ## Usages
 
