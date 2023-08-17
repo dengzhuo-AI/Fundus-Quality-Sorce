@@ -9,6 +9,11 @@ The test codes for the FTHNet.
 
 See the requirement for more details.
 
+## pretrained model
+
+Check [here](https://pan.baidu.com/s/1ETr6YCE5U2khSHQ4rl2rkg)
+
+
 ## sample_FQS
 
 20% of the FQS data randomly selected in sample_FQS.
