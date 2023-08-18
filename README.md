@@ -11,7 +11,7 @@ See the requirement for more details.
 
 ## pretrained model
 
-Check [here](https://pan.baidu.com/s/1ETr6YCE5U2khSHQ4rl2rkg) to get the checkpoint of FTHNet.
+Click [here](https://pan.baidu.com/s/1ETr6YCE5U2khSHQ4rl2rkg) to get the checkpoint of FTHNet.
 
 Note: access code for Baidu Disk is fth1.
 
